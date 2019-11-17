@@ -8,11 +8,7 @@ class Anagram
   end
   
   def match(word)
-    if word == [] do 
-      word
-  else
-    []
-  end
+  
   end
   
   
